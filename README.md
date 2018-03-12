@@ -3,7 +3,8 @@ various ways to summarise text using the libraries available
   1. pyteaser
   2. sumy
   3. gensim
-
+  4. pytldr
+  
 ## INSTALL
 pip install sumy
 pip install gensim
