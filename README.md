@@ -1,5 +1,5 @@
 # text_summarization
-various ways to summarise text using the libraries available
+various ways to summarise text using the libraries available for Python
   1. pyteaser
   2. sumy
   3. gensim
