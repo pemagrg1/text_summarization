@@ -6,28 +6,33 @@ various ways to summarise text using the libraries available for Python
   4. pytldr
   
 ## INSTALL
-pip install sumy
-pip install gensim
-pip install pyteaser
-pip install pytldr
+pip install sumy<br>
+pip install gensim<br>
+pip install pyteaser<br>
+pip install pytldr<br>
 
 ## Pyteaser
-Pyteaser has two function:
-  Summarize: that takes title and text and summarizes them
-  SummarizeURL: that takes the url and summarizes the content of the url
+Pyteaser has two function:<br>
+  Summarize: that takes title and text and summarizes them<br>
+  SummarizeURL: that takes the url and summarizes the content of the url<br>
   
 ## Sumy
-Summy has various preprocessing libraries and summarizer libraries
-  sumytoken: for tokenizing the text
-  get_stop_words: to remove the stop words from the text
-  stemmer: to stemp the words
-  LexRankSummarizer: summarizes based on lexical ranking
-  LsaSummarizer: summarizes based on semantic
-  LuhnSummarizer: summarizes based on Luhn's algorithm
+Summy has various preprocessing libraries and summarizer libraries<br>
+  sumytoken: for tokenizing the text<br>
+  get_stop_words: to remove the stop words from the text<br>
+  stemmer: to stemp the words<br>
+  LexRankSummarizer: summarizes based on lexical ranking<br>
+  LsaSummarizer: summarizes based on semantic<br>
+  LuhnSummarizer: summarizes based on Luhn's algorithm<br>
 
 ## Gensim
   gensim has a summarize library which can be imported and used directly.
   
 ## pytldr
- pytldr is also like sumy where they have various nlp libraries like tokenizer.
+ pytldr is also like sumy where they have various nlp libraries like tokenizer.<br>
  Here we have used TextRankSummarizer, RelevanceSummarzer, LsaSummarizer from pytldr
+
+## PS:
+If you are using python2, please run main.py from "for_python2" folder <br>
+elif you are using python3,  please run main.py from "for_python3" folder<br>
+else you can test by running "various_ways_to_summarize.py" or the notebook named as "Text Summarizer Notebook.ipynb"
