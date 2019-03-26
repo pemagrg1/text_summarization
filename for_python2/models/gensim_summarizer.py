@@ -2,7 +2,7 @@ from gensim.summarization import summarize
 
 
 def gensim_summarizer(text):
-    print(summarize(text))
+    return (summarize(text))
 
 
 # ###TEST

@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74eb486d-6b4d-4485-8af2-022355b9d77e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyteaser_summarizer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/various_ways_to_summarize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_python2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/for_python2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_python2/models/gensim_summarizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/for_python2/models/gensim_summarizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_python2/models/pytldr_LSA_summarizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/for_python2/models/pytldr_LSA_summarizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_python2/models/pytldr_textRank_summarizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/for_python2/models/pytldr_textRank_summarizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_python2/models/sumy_Lex_summarize.py" beforeDir="false" afterPath="$PROJECT_DIR$/for_python2/models/sumy_Lex_summarize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_python2/models/sumy_LsaSummarizer_summarizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/for_python2/models/sumy_LsaSummarizer_summarizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_python2/models/sumy_Luhn_summarize.py" beforeDir="false" afterPath="$PROJECT_DIR$/for_python2/models/sumy_Luhn_summarize.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,12 +19,36 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/for_python3/main.py">
+        <entry file="file://$PROJECT_DIR$/for_python2/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="390">
+              <caret line="26" column="61" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
               <folding>
-                <element signature="e#0#108#0" expanded="true" />
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/for_python2/models/pytldr_LSA_summarizer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/for_python2/models/pytldr_textRank_summarizer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,6 +87,9 @@
         <option value="$PROJECT_DIR$/for_python3/models/sumy_Luhn_summarize.py" />
         <option value="$PROJECT_DIR$/for_python3/models/gensim_summarizer.py" />
         <option value="$PROJECT_DIR$/for_python3/main.py" />
+        <option value="$PROJECT_DIR$/for_python2/main.py" />
+        <option value="$PROJECT_DIR$/for_python2/models/pytldr_LSA_summarizer.py" />
+        <option value="$PROJECT_DIR$/for_python2/models/pytldr_textRank_summarizer.py" />
       </list>
     </option>
   </component>
@@ -84,6 +115,12 @@
               <item name="text_summarization" type="b2602c69:ProjectViewProjectNode" />
               <item name="text_summarization" type="462c0819:PsiDirectoryNode" />
               <item name="for_python2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text_summarization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text_summarization" type="462c0819:PsiDirectoryNode" />
+              <item name="for_python2" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="text_summarization" type="b2602c69:ProjectViewProjectNode" />
@@ -446,10 +483,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/for_python3/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="240">
+          <caret line="16" column="30" selection-end-line="17" />
           <folding>
             <element signature="e#0#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for_python2/models/pyteaser_summarizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for_python2/models/pytldr_textRank_summarizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for_python2/models/pytldr_LSA_summarizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for_python2/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="61" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
