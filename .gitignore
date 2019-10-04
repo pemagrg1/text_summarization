@@ -1,0 +1,7 @@
+.env
+.pyc
+.cpython-36.pyc
+*.pyc
+*~
+*.swp
+.idea/
