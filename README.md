@@ -1,3 +1,9 @@
+Summarize any language text
+<br>
+```
+run MultiLanguageSummarizer.py
+```
+<br><br>
 # text_summarization
 various ways to summarise text using the libraries available for Python
   1. pyteaser
