@@ -1,5 +1,6 @@
 Created on : 13 Mar 2018
 
+<br> **NOTE**: pytldr and pyteaser doesn't work for python>2.7. <br>
 Summarize any language text
 <br>
 ```
