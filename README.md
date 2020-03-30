@@ -22,7 +22,10 @@ pip install sumy<br>
 pip install gensim<br>
 pip install pyteaser<br>
 pip install pytldr<br>
-
+pip install bert-extractive-summarizer<br>
+pip install spacy==2.0.12<br>
+pip install transformers==2.2.0<br>
+<br>
 ## Pyteaser
 Pyteaser has two function:<br>
   Summarize: that takes title and text and summarizes them<br>
