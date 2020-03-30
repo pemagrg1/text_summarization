@@ -7,7 +7,7 @@ Summarize any language text
 run MultiLanguageSummarizer.py
 ```
 <br><br>
-# text_summarization
+# Extractive text summarization
 various ways to summarise text using the libraries available for Python
   1. pyteaser
   2. sumy
