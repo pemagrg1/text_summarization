@@ -13,6 +13,9 @@ various ways to summarise text using the libraries available for Python
   2. sumy
   3. gensim
   4. pytldr
+  5. XLNET
+  6. BERT
+  7. GPT2
   
 ## INSTALL
 pip install sumy<br>
