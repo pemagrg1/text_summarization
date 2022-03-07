@@ -47,6 +47,15 @@ Summy has various preprocessing libraries and summarizer libraries<br>
  pytldr is also like sumy where they have various nlp libraries like tokenizer.<br>
  Here we have used TextRankSummarizer, RelevanceSummarzer, LsaSummarizer from pytldr
 
+## XLNET
+XLNet is an auto-regressive language model which outputs the joint probability of a sequence of tokens based on the transformer architecture with recurrence.
+
+## BERT
+Extractive Text summarization refers to extracting (summarizing) out the relevant information from a large document while retaining the most important information. BERT (Bidirectional Encoder Representations from Transformers) introduces rather advanced approach to perform NLP tasks.
+
+## GPT2
+GPT-2 model with 1.5 Billion parameters is a large transformer-based language model. It's trained for predicting the next word. So, we can use this specialty to summarize the data.
+
 ## PS:
 If you are using python2, please run main.py from "for_python2" folder <br>
 elif you are using python3,  please run main.py from "for_python3" folder<br>
